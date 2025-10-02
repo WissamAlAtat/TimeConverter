@@ -107,7 +107,8 @@ Returns an array of timezone strings, e.g.:
 
 ## 📸 Screenshots (Optional)
 
-_Add here screenshots or GIFs of your app in action._  
+
+<img width="712" height="722" alt="Screenshot 2025-10-02 at 13 56 14" src="https://github.com/user-attachments/assets/e3493a30-9473-4d6a-9a22-06f486bb68c2" />
 
 ---
 
